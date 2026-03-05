@@ -229,7 +229,7 @@
 .hero-content .col-lg-7 {
   padding-right: 6rem;
   margin-left: -11rem;   /* text goes more left */
-  transform: translateY(-58px); /* moves text upward */
+  transform: translateY(-68px); /* moves text upward */
 }
 
 .hero-content .col-lg-5 {
